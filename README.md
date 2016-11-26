@@ -8,6 +8,7 @@ Makes scraping tweets easy with one line of code and returns it in json; Emulate
 ```bash
 pip install beautifulsoup4
 pip install requests
+pip install json
 ```
 
 # Example
