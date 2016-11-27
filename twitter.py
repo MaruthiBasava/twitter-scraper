@@ -94,9 +94,7 @@ class TwitterFollower(TwitterAccount):
     def __init__(self, handle):
         super(TwitterFollower, self).__init__(handle)
 
-
-
-
+        
 class TwitterFollowing(TwitterAccount):
 
     def __init__(self, handle):
